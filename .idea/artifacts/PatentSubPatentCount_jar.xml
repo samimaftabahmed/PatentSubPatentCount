@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PatentSubPatentCount:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PatentSubPatentCount_jar</output-path>
+    <root id="archive" name="PatentSubPatentCount.jar">
+      <element id="module-output" name="PatentSubPatentCount" />
+    </root>
+  </artifact>
+</component>
